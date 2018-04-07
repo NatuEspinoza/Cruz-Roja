@@ -36,7 +36,7 @@ En conjunto con el equipo de desarrollo y los integrantes de la Cruz Roja realiz
 Pudimos  generar una personalidad que permitiera empatizar con el usuario, dandole dos caracteristicas que son la confianza, por medio de una personalidad profesional y generar cercanía por medio de un lenguaje coloquial.
 
 #### Problemática
-Las personas que quieren ser voluntarias a partir de un evento de emergencia desconocen la información necesaria para poder inscribirse (Voluntario desinformado).
+Las personas que quieren ser voluntarias a partir de un evento de emergencia desconocen la información necesaria para poder inscribirse o de como poder ayudar (Voluntario desinformado).
 
 #### Propuestas de valor
 * La pagina logra ser cercana e intuitiva lo que hace disminuir las llamadas en episodios de emergencia.
@@ -59,4 +59,24 @@ Los principales cambios fueron en relación a como entregar la información, con
 ## MVP
 ![etapas](https://i.imgur.com/Bb24jNJ.jpg)
 
-##### Proyecto desarrollado para Cruz Roja Chile.
+## Desarrollo de chatbot
+Para desarrollar el proyecto de asistente virtual se utilizan otras tecnologías de IBM. Watson assistant para crear el flujo y contenido de los diálogos, Node-RED como herramienta de desarrollo que permite conectar la **API de Watson Assistant** con nuestra aplicación web, la que se interrumpe en la pagina como un iframe La aplicación web fue desarrollada con Javascript y jQuery, ademas de bootstrap 4 como framework.
+
+### Equipo
+#### UX Designers
+* Angélica Órdenes
+* Pabla Bazán
+* Macarena Araos
+* Natalia Espinoza
+* Stephanie Rojo
+* Lía Cubillos
+
+#### Front-end developers
+* Leticia Rodríguez
+* Cynthia Isla
+* Nadia Morales
+* María José Barriga
+* Natalia Albornoz
+* Andrea Díaz
+
+##### Proyecto desarrollado en para Cruz Roja Chile.
