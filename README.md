@@ -4,7 +4,7 @@ Se nos solicitó como equipo analizar y rediseñar la página actual de la Cruz 
 
 Para el proceso de investigación trabajamos bajo la metodología de Design Thinking en donde fue fundamental la participación tanto del del cliente como del área de desarrollo.
 
-![etapas](https://i.imgur.com/cvWT6gi.jpg)
+![etapas](http://epi-centro.com/wp-content/uploads/2017/11/design_thinking_visual.png)
 
 ## Investigación
 Realizamos un análisis comparativo de páginas de Cruz Roja a nivel internacional y en paralelo testeamos la página actual de Cruz Roja Chile junto con analizar la arquitectura de la información.
